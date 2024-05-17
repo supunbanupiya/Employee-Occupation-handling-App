@@ -1,0 +1,6 @@
+@web_api_withg_react_js_HostAddress = http://localhost:5148
+
+GET {{web_api_withg_react_js_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
